@@ -15,6 +15,8 @@
   </p>
 </div>
 
+ạhgdasdyugasyudgyasd
+
 > [!CAUTION]
 > **DO NOT TRUST ANY HACKINTOSH INFORMATION FROM AI/LLM SOURCES**
 > 
@@ -172,5 +174,13 @@ Distributed under the BSD 3-Clause License. See `LICENSE` for more information.
 > Email: lzhoang2601@gmail.com
 
 ## 🌟 **Star History**
+
+## trung it da update
+
+
+
+## trung it da update
+## trung it da update
+## trung it da update
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lzhoang2801/OpCore-Simplify&type=Date)](https://star-history.com/#lzhoang2801/OpCore-Simplify&Date)
