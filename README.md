@@ -184,3 +184,65 @@ Distributed under the BSD 3-Clause License. See `LICENSE` for more information.
 ## trung it da update
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lzhoang2801/OpCore-Simplify&type=Date)](https://star-history.com/#lzhoang2801/OpCore-Simplify&Date)
+
+> [!WARNING]
+> **OUTDATED SECTIONS IN DORTANIA GUIDE**
+> 
+> While the Dortania Guide is a valuable resource, some sections may be outdated. Always:
+> - Verify information with the Hackintosh community
+> - Test configurations yourself
+> - Prefer reading documentation directly from the GitHub repositories of bootloaders and kexts you plan to use> [!WARNING]
+> **OUTDATED SECTIONS IN DORTANIA GUIDE**
+> 
+> While the Dortania Guide is a valuable resource, some sections may be outdated. Always:
+> - Verify information with the Hackintosh community
+> - Test configurations yourself
+> - Prefer reading documentation directly from the GitHub repositories of bootloaders and kexts you plan to use> [!WARNING]
+> **OUTDATED SECTIONS IN DORTANIA GUIDE**
+> 
+> While the Dortania Guide is a valuable resource, some sections may be outdated. Always:
+> - Verify information with the Hackintosh community
+> - Test configurations yourself
+> - Prefer reading documentation directly from the GitHub repositories of bootloaders and kexts you plan to use> [!WARNING]
+> **OUTDATED SECTIONS IN DORTANIA GUIDE**
+> 
+> While the Dortania Guide is a valuable resource, some sections may be outdated. Always:
+> - Verify information with the Hackintosh community
+> - Test configurations yourself
+> - Prefer reading documentation directly from the GitHub repositories of bootloaders and kexts you plan to use> [!WARNING]
+> **OUTDATED SECTIONS IN DORTANIA GUIDE**
+> 
+> While the Dortania Guide is a valuable resource, some sections may be outdated. Always:
+> - Verify information with the Hackintosh community
+> - Test configurations yourself
+> - Prefer reading documentation directly from the GitHub repositories of bootloaders and kexts you plan to use> [!WARNING]
+> **OUTDATED SECTIONS IN DORTANIA GUIDE**
+> 
+> While the Dortania Guide is a valuable resource, some sections may be outdated. Always:
+> - Verify information with the Hackintosh community
+> - Test configurations yourself
+> - Prefer reading documentation directly from the GitHub repositories of bootloaders and kexts you plan to use> [!WARNING]
+> **OUTDATED SECTIONS IN DORTANIA GUIDE**
+> 
+> While the Dortania Guide is a valuable resource, some sections may be outdated. Always:
+> - Verify information with the Hackintosh community
+> - Test configurations yourself
+> - Prefer reading documentation directly from the GitHub repositories of bootloaders and kexts you plan to use> [!WARNING]
+> **OUTDATED SECTIONS IN DORTANIA GUIDE**
+> 
+> While the Dortania Guide is a valuable resource, some sections may be outdated. Always:
+> - Verify information with the Hackintosh community
+> - Test configurations yourself
+> - Prefer reading documentation directly from the GitHub repositories of bootloaders and kexts you plan to use> [!WARNING]
+> **OUTDATED SECTIONS IN DORTANIA GUIDE**
+> 
+> While the Dortania Guide is a valuable resource, some sections may be outdated. Always:
+> - Verify information with the Hackintosh community
+> - Test configurations yourself
+> - Prefer reading documentation directly from the GitHub repositories of bootloaders and kexts you plan to use> [!WARNING]
+> **OUTDATED SECTIONS IN DORTANIA GUIDE**
+> 
+> While the Dortania Guide is a valuable resource, some sections may be outdated. Always:
+> - Verify information with the Hackintosh community
+> - Test configurations yourself
+> - Prefer reading documentation directly from the GitHub repositories of bootloaders and kexts you plan to use
